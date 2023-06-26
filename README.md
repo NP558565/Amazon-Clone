@@ -5,8 +5,6 @@ This is a project in React where it mimics the stylized interface to look like t
 
 ## [Live Demo of Amazon clone app](https://challenge-d310a.web.app/)
 
-Deployed on Firebase
-
 ## Start template how to build the App
 
 - npx create-react-app amazon-clone
