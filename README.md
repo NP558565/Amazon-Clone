@@ -1,5 +1,13 @@
-## [Live Demo of Amazon clone app](https://challenge-7eb5d.web.app/)
-## Start template
+
+## 100devs project -Build a Full stack App - Amazon Clone
+
+This is a project in React where it mimics the stylized interface to look like the Amazon.com, using Firebase and Stripe services.Deployed on Firebase.
+
+## [Live Demo of Amazon clone app](https://challenge-d310a.web.app/)
+
+Deployed on Firebase
+
+## Start template how to build the App
 
 - npx create-react-app amazon-clone
 - Then go firebase create a new project
@@ -60,16 +68,4 @@
 - see spark on bottom of firebase page, select Blaze
 - then go firebase -> Functions grab the api link inside paste into axios
 - cd to amazon-clone: `npm run build`
-- `firebase deploy --only hosting` (hosting: front-end, functions: back-end)
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- `firebase deploy --only hosting`
